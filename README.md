@@ -54,7 +54,7 @@ Use the included CSS library [Bulma](https://bulma.io/) to create the form compo
 ### Submit button
 Add a submit button.  When the user hits submit, processing indication should show on screen for a "realistic" time before displaying a thank you message AND the form information that was submitted. 
 
-If you aren't storing information to the store, please store it in an object titled <yourName>
+If you aren't storing information to the store, please store it in an object titled yourName
 
 BONUS:
 On submit store the form information the [vue Vuex store](https://vuex.vuejs.org/).
@@ -66,4 +66,7 @@ If you aren't showing the thank you message on a unique page /thank-you, then th
 
 BONUS:
 Use [Vue Router](https://router.vuejs.org/) to create a new page and redirect the user to that page on successful message send.  The page should have the thank you message and the form contents. The url that is used should be /thank-you
+
+## Notes and extra inforamtion
+This test isn't meant to be super challenging, it should be fun.  Do what you can and focus on what you would like.  If you would like to figure out vuex store or vue router go ahead.  If you would like to focus on creating custom css to make your own unique form, that is fine too.  If you would like to do everything, go for it! You might want to [install Vue Dev Tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en) to get some extra information from the browser to help you debug.
 
