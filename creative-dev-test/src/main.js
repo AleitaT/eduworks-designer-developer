@@ -5,7 +5,7 @@ import router from './router';
 // VUEX STORE
 import store from './store';
 // BUMA
-import '../../node_modules/bulma/css/bulma.css';
+import './../node_modules/bulma/css/bulma.css';
 import '@/styles.scss';
 
 
