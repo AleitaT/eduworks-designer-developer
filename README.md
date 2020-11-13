@@ -11,11 +11,13 @@ This project required NPM 5.0 or higher
 # Install Vue Cli
 
 $ npm install -g @Vue/cli
+
 $ npm install -g @vue/cli-service-global
 
 # install sass-loader and node-sass
 
 $ npm install sass-loader
+
 $ npm install node-sass
 
 
@@ -57,6 +59,7 @@ Add a submit button.  When the user hits submit, processing indication should sh
 If you aren't storing information to the store, please store it in an object titled yourName
 
 BONUS:
+
 On submit store the form information the [vue Vuex store](https://vuex.vuejs.org/).
 
 ## Displaying a thank you message
@@ -65,6 +68,7 @@ You can display a thank you message however you would like.
 If you aren't showing the thank you message on a unique page /thank-you, then the message can be displayed on a dyanimically displayed section of the scren that shows when the the processing message is done. 
 
 BONUS:
+
 Use [Vue Router](https://router.vuejs.org/) to create a new page and redirect the user to that page on successful message send.  The page should have the thank you message and the form contents. The url that is used should be /thank-you
 
 ## Notes and extra inforamtion
