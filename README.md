@@ -1,6 +1,9 @@
 # eduworks-designer-developer
 A short list of tasks for applicants applying for web designer developer at Eduworks.
 
+[Vue.js](https://vuejs.org/)
+[Vue.js cheat sheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf)
+
 # Prerequisites
 This project requires Node.js 8.11 or higher
 This project required NPM 5.0 or higher
@@ -54,7 +57,7 @@ Add a submit button.  When the user hits submit, processing indication should sh
 If you aren't storing information to the store, please store it in an object titled <yourName>
 
 BONUS:
-On submit store the form information the vue Vuex store.
+On submit store the form information the [vue Vuex store](https://vuex.vuejs.org/).
 
 ## Displaying a thank you message
 You can display a thank you message however you would like. 
@@ -62,5 +65,5 @@ You can display a thank you message however you would like.
 If you aren't showing the thank you message on a unique page /thank-you, then the message can be displayed on a dyanimically displayed section of the scren that shows when the the processing message is done. 
 
 BONUS:
-Use Vue Router to create a new page and redirect the user to that page on successful message send.  The page should have the thank you message and the form contents. The url that is used should be /thank-you
+Use [Vue Router](https://router.vuejs.org/) to create a new page and redirect the user to that page on successful message send.  The page should have the thank you message and the form contents. The url that is used should be /thank-you
 
