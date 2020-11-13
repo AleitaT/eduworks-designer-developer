@@ -42,7 +42,7 @@ And the subtitle "Please complete the form below"
 Create a small form to mock submit some data.
 
 ### inputs
-- Have 4 imputs 
+- Include 4 inputs 
 - Name 
 - Email address
 - Phone number
