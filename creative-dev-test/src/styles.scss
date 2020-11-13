@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+// Import a Google Font
+@import url("https://fonts.googleapis.com/css?family=Lato|Slabo+13px&display=swap");
+
+// Set your default colors
+// $purple: #8A4D76;
+// $pink: #FA7C91;
+// $brown: #757763;
+// $beige-light: #D0D1CD;
+// $beige-lighter: #EFF0EB;
+
+// Update Bulma's global variables
+$family-sans-serif: "Lato", sans-serif;
+$family-secondary: "Slabo 13px", serif;
+
+// $grey-dark: $brown;
+// $grey-light: $beige-light;
+// $primary: $purple;
+// $link: $pink;
+// $widescreen-enabled: false;
+// $fullhd-enabled: false;
+
+// Update some of Bulma's component variables
+// $body-background-color: $beige-lighter;
+// $control-border-width: 2px;
+// $input-border-color: transparent;
+// $input-shadow: none;
+
+// Custom global styles
+// p { color: red; }
+
+@import "../node_modules/bulma/bulma.sass";
